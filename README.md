@@ -2,19 +2,22 @@
 I have created the home page of Netflix, replicating the design and functionality using HTML, CSS, and JavaScript. This page is fully responsive, ensuring it looks great and functions well on both desktop and mobile devices.
 
 # MY WEBSITE
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/6901616e-e45e-4819-9b72-9388bf3e6f3e)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/ab71ed3d-1b67-4d18-b12c-30391a536387)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/a0d75ce7-2c03-452c-a4af-99ef2de1c1b1)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/e09493df-9480-44e1-a034-75433164cb00)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/5510cdd3-f70f-4e20-b3a7-1cee25faa707)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/1793ebdd-6381-4425-a36a-544d599e80e7)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/4a398576-203d-4a81-aa52-4582282deaca)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/100635f3-bd31-4ede-af92-f02ab03ab86f)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/6f7c143d-a7c1-44dd-bc17-569b0f20398f)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/98b2ae45-2055-42d3-9b4d-35bac478aa1a)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/4a80e45a-599a-4556-8a7d-07a0569b7138)
 
 # IT'S RESPONSIVE
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/70211a5f-e788-4a9c-9c65-67a8fb410472)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/c50fae7d-dd65-4936-91fd-7e049b17dcbf)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/263c8314-be70-4965-be4b-f39a18fecfe7)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/9beae583-b9b8-475d-ada7-227e19553375)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/735f1e88-52d3-4e48-91fe-9f9ff6e617d0)
-![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/ca748451-ccfb-4047-9bfd-9c83355b1626)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/c600fbb2-acf3-400f-8ed0-b99207de89ec)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/369e59d3-4a3f-493a-bcfc-f911ef3eceff)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/133ed68c-20b2-45b6-8ec2-d8c64334b141)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/83a89253-bb5b-4e45-bc48-e9b1b290baa2)
+![image](https://github.com/sowmyagorrepati/NETFLIX-HOME-PAGE/assets/160376776/61aa2b0c-108e-4911-b86e-9747e2ae3e49)
+
+
+
 
 
 
