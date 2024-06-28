@@ -3,11 +3,6 @@
         width: 50%; 
         margin-top: 100px; 
     }
-    .box img {
-        width: 150px; 
-        height: 100px; 
-    }
-
     .navbar {
         padding: 10px 15px; 
     }
@@ -30,6 +25,17 @@
 
     .right-tabs a {
         font-size: 0.8em; 
+    }
+    .movies {
+        padding-left: 25px; 
+    }
+    .box img {
+        width: 150px; 
+        height: 200px; 
+    }
+    .prev-btn, .next-btn {
+        padding: 5px 10px;
+        font-size: 16px;
     }
 }
 
@@ -64,9 +70,16 @@
         margin-top: 80px;
     }
 
+    .movies {
+        padding-left: 20px; 
+    }
     .box img {
-        width: 100px;
-        height: 75px;
+        width: 120px; 
+        height: 160px; 
+    }
+    .prev-btn, .next-btn {
+        padding: 5px 10px;
+        font-size: 14px;
     }
 }
 
@@ -109,16 +122,21 @@
         font-size: 0.8em;
     }
 
-    .box img {
-        width: 80px;
-        height: 60px;
+    .movies {
+        padding-left: 15px; 
     }
-
+    .box img {
+        width: 100px;
+        height: 140px;
+    }
+    .prev-btn, .next-btn {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
     .sec {
         margin: 10px;
         margin-left: 25px;
     }
-
     .sec h1 {
         font-size: 1em;
     }
@@ -159,16 +177,21 @@
         font-size: 0.7em;
     }
 
-    .box img {
-        width: 70px;
-        height: 50px;
+    .movies {
+        padding-left: 10px; 
     }
-
+    .box img {
+        width: 80px;
+        height: 120px;
+    }
+    .prev-btn, .next-btn {
+        padding: 5px 10px;
+        font-size: 10px;
+    }
     .sec {
         margin: 10px;
         margin-left: 20px;
     }
-
     .sec h1 {
         font-size: 0.9em;
     }
